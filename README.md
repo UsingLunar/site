@@ -6,7 +6,6 @@
 - Community-driven contributions
 - 100% free and open-source
 
-**Tagline:** *Freedom of use.*
 
 ## 🌐 Live Website
 [Visit the Showcase Website](#) *(not ready yet)*
