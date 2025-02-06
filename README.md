@@ -9,7 +9,7 @@
 **Tagline:** *Freedom of use.*
 
 ## 🌐 Live Website
-[Visit the Showcase Website](#) *(Add live link here)*
+[Visit the Showcase Website](#) *(not ready yet)*
 
 ## 📌 Features
 - **Elegant UI/UX** – A visually appealing and seamless experience.
