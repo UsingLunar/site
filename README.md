@@ -20,9 +20,9 @@
 
 ## 🛠️ Tech Stack
 - **Frontend**: React, Vite
-- **Animations**: GSAP, Framer Motion
-- **Styling**: Tailwind CSS
-- **Deployment**: Vercel/Netlify *(or any preferred hosting service)*
+- **Animations**: GSAP
+- **Styling**: Pure CSS
+- **Deployment**: Vercel
 
 ## 🎨 Design & Branding
 Lunar stands out with its own identity, featuring unique branding, a custom logo, and a consistent design language.
@@ -30,11 +30,11 @@ Lunar stands out with its own identity, featuring unique branding, a custom logo
 ## 🔧 Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/lunar-showcase.git
+   git clone https://github.com/UsingLunar/site.git
    ```
 2. **Navigate to the project folder:**
    ```bash
-   cd lunar-showcase
+   cd site
    ```
 3. **Install dependencies:**
    ```bash
